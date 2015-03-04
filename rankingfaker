@@ -1,6 +1,6 @@
 #!/bin/bash
 
-archivo_entrada="micro_pi_test"
+archivo_entrada="10000pi.txt"
 archivo_salida="pi_description"
 
 i=0
